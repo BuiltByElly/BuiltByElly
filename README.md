@@ -1,11 +1,12 @@
-<h2>Hi, I’m Elliot Otoijagha</h2>  a Nigerian frontend engineer who likes turning ideas into clean, usable web experiences.
+<h2>Hi, I’m Elliot Otoijagha</h2>  a Nigerian Frontend engineer who likes turning ideas into clean, usable web experiences.
 
-I focus mainly on frontend and care a lot about **clarity, performance, and how things feel to use** — not just that they work.
-
-Currently working on **[Anipact](https://github.com/Ellydev0/Anipact)** — and a few other ideas that haven’t earned a README yet.
+I care a lot about **clarity, performance, and how things feel to use** — not just that they work. I am also currently expanding my skills to full stack.
 
 
-<h4>Find me on twitter <a href="https://twitter.com/ellydev0" target="_blank">
+Currently building on **[Primely](https://github.com/BuiltByElly/Primely)** — and a few other ideas that haven’t earned a README yet.
+
+
+<h4>Find me on twitter <a href="https://twitter.com/BuiltByElly" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       height="30" width="40"
