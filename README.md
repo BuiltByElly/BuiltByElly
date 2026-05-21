@@ -1,4 +1,4 @@
-<h2>Hi, I’m Elliot Otoijagha</h2> I'm abNigerian Frontend engineer. I craft immersive web experiences and scalable web apps.
+<h2>Hi, I’m Elliot Otoijagha</h2> I'm a Nigerian Frontend engineer. I craft immersive web experiences and scalable web apps.
 
  **Performance, User interface and User experience** are the cornerstone of everything I build. 
 
