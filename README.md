@@ -14,6 +14,8 @@ I am also currently expanding my skills to full stack development with FastAPI.
   </a>
 </h4>
 
+<b><a href="https://elliot-otoijagha.pxxl.click">My Portfolio</a>
+</b>
 
 ### GitHub Stats
 <p align="center">
