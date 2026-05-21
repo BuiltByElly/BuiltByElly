@@ -1,9 +1,9 @@
-<h2>Hi, I’m Elliot Otoijagha</h2> A Nigerian Frontend engineer who likes turning ideas into clean, usable web experiences.
+<h2>Hi, I’m Elliot Otoijagha</h2> I'm abNigerian Frontend engineer. I craft immersive web experiences and scalable web apps.
 
-I care a lot about **clarity, performance, and how things feel to use** — not just that they work. I am also currently expanding my skills to full stack.
+ **Performance, User interface and User experience** are the cornerstone of everything I build. 
 
+I am also currently expanding my skills to full stack development with FastAPI.
 
-Currently building on **[Primely](https://github.com/BuiltByElly/Primely)** — and a few other ideas that haven’t earned a README yet.
 
 
 <h4>Find me on twitter <a href="https://twitter.com/BuiltByElly" target="_blank">
@@ -15,7 +15,7 @@ Currently building on **[Primely](https://github.com/BuiltByElly/Primely)** — 
 </h4>
 
 
-### Stats (I like numbers)
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ellydev0&show_icons=true&hide_border=true" />
 </p>
