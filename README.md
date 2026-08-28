@@ -1,8 +1,8 @@
-<h2>Hi, I’m Elliot Otoijagha</h2> I'm a Nigerian Software engineer. I craft immersive web experiences and scalable web apps.
+<h2>Hi, I’m Elliot Otoijagha</h2> I'm a Nigerian software engineer. I build immersive web experiences and scalable software applications.
 
- **Performance, User interface and User experience** are the cornerstone of everything I build. 
+Performance, user interface and user experience are the cornerstone of everything I build. 
 
-I am also currently expanding my skills in full stack development and systems level programming.
+I am also currently expanding my skills in full stack development and systems level programming. The learning never ends.
 
 
 
